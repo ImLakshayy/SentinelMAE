@@ -21,8 +21,8 @@ from utils.config_loader import load_config
 
 UCF_CRIME_CLASSES = [
     "Abuse", "Arrest", "Arson", "Assault", "Burglary",
-    "Explosion", "Fighting", "RoadAccidents", "Robbery",
-    "Shooting", "Shoplifting", "Stealing", "Vandalism",
+    "Explosion", "Fighting", "NormalVideos", "RoadAccidents",
+    "Robbery", "Shooting", "Shoplifting", "Stealing", "Vandalism",
 ]
 
 
